@@ -1,0 +1,6 @@
+C:\LWQ\VS2019\array\bin\Debug\array.exe.config
+C:\LWQ\VS2019\array\bin\Debug\array.exe
+C:\LWQ\VS2019\array\bin\Debug\array.pdb
+C:\LWQ\VS2019\array\obj\Debug\array.csprojAssemblyReference.cache
+C:\LWQ\VS2019\array\obj\Debug\array.exe
+C:\LWQ\VS2019\array\obj\Debug\array.pdb
