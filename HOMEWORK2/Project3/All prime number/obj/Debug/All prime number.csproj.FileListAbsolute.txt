@@ -1,0 +1,6 @@
+C:\LWQ\VS2019\All prime number\bin\Debug\All prime number.exe.config
+C:\LWQ\VS2019\All prime number\bin\Debug\All prime number.exe
+C:\LWQ\VS2019\All prime number\bin\Debug\All prime number.pdb
+C:\LWQ\VS2019\All prime number\obj\Debug\All prime number.exe
+C:\LWQ\VS2019\All prime number\obj\Debug\All prime number.pdb
+C:\LWQ\VS2019\All prime number\obj\Debug\All prime number.csprojAssemblyReference.cache
