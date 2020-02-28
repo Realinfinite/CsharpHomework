@@ -1,0 +1,5 @@
+C:\Users\86132\source\repos\cccaculator\bin\Debug\cccaculator.exe.config
+C:\Users\86132\source\repos\cccaculator\bin\Debug\cccaculator.exe
+C:\Users\86132\source\repos\cccaculator\bin\Debug\cccaculator.pdb
+C:\Users\86132\source\repos\cccaculator\obj\Debug\cccaculator.exe
+C:\Users\86132\source\repos\cccaculator\obj\Debug\cccaculator.pdb
