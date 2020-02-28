@@ -1,0 +1,6 @@
+C:\LWQ\VS2019\Prime\bin\Debug\Prime.exe.config
+C:\LWQ\VS2019\Prime\bin\Debug\Prime.exe
+C:\LWQ\VS2019\Prime\bin\Debug\Prime.pdb
+C:\LWQ\VS2019\Prime\obj\Debug\Prime.exe
+C:\LWQ\VS2019\Prime\obj\Debug\Prime.pdb
+C:\LWQ\VS2019\Prime\obj\Debug\Prime.csprojAssemblyReference.cache
