@@ -1,0 +1,6 @@
+C:\LWQ\VS2019\3th work\bin\Debug\3th work.exe.config
+C:\LWQ\VS2019\3th work\bin\Debug\3th work.exe
+C:\LWQ\VS2019\3th work\bin\Debug\3th work.pdb
+C:\LWQ\VS2019\3th work\obj\Debug\3th work1.csprojAssemblyReference.cache
+C:\LWQ\VS2019\3th work\obj\Debug\3th work.exe
+C:\LWQ\VS2019\3th work\obj\Debug\3th work.pdb
