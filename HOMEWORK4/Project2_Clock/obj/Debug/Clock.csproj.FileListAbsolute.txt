@@ -1,0 +1,6 @@
+C:\LWQ\VS2019\Clock\bin\Debug\Clock.exe.config
+C:\LWQ\VS2019\Clock\bin\Debug\Clock.exe
+C:\LWQ\VS2019\Clock\bin\Debug\Clock.pdb
+C:\LWQ\VS2019\Clock\obj\Debug\Clock.exe
+C:\LWQ\VS2019\Clock\obj\Debug\Clock.pdb
+C:\LWQ\VS2019\Clock\obj\Debug\Clock.csprojAssemblyReference.cache

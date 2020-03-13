@@ -1,0 +1,6 @@
+C:\LWQ\VS2019\List\obj\Debug\List.csprojAssemblyReference.cache
+C:\LWQ\VS2019\List\bin\Debug\List.exe.config
+C:\LWQ\VS2019\List\bin\Debug\List.exe
+C:\LWQ\VS2019\List\bin\Debug\List.pdb
+C:\LWQ\VS2019\List\obj\Debug\List.exe
+C:\LWQ\VS2019\List\obj\Debug\List.pdb
