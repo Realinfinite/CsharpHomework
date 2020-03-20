@@ -1,0 +1,6 @@
+C:\LWQ\VS2019\Ordermanagement\bin\Debug\Ordermanagement.exe.config
+C:\LWQ\VS2019\Ordermanagement\bin\Debug\Ordermanagement.exe
+C:\LWQ\VS2019\Ordermanagement\bin\Debug\Ordermanagement.pdb
+C:\LWQ\VS2019\Ordermanagement\obj\Debug\Ordermanagement.csprojAssemblyReference.cache
+C:\LWQ\VS2019\Ordermanagement\obj\Debug\Ordermanagement.exe
+C:\LWQ\VS2019\Ordermanagement\obj\Debug\Ordermanagement.pdb
