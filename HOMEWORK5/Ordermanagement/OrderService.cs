@@ -3,12 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
+using System.Xml.Serialization;
 
 namespace Ordermanagement
 {
-    class OrderService
+  public  class OrderService
     {
-        public bool Order_exist (List<Order> list, int order_ID)
+        public  bool Order_exist (List<Order> list, int order_ID)
        {
             var m = list.Where(w => w.Order_ID == order_ID);
               List <Order> testlist = m.ToList();
@@ -204,6 +206,32 @@ namespace Ordermanagement
         {
             list.Sort((order1, order2) => order1.Order_ID - order2.Order_ID);
             list.ForEach(w => Console.WriteLine(w));
+        }
+        //public List<Order> list { get; set; }
+
+        public void Export (List<Order> list,string fileName)
+        {
+            
+            XmlSerializer xmlSerializer = new XmlSerializer(typeof(List<Order>));
+            using(FileStream fs = new FileStream(fileName,FileMode.Create)){
+                xmlSerializer.Serialize(fs, list);
+            }
+            Console.WriteLine("\nSerialized as XML:");
+            Console.WriteLine(File.ReadAllText("orders.xml"));
+        }
+
+        public List<Order> Import(string path)
+        {
+            XmlSerializer xmlSerializer = new XmlSerializer(typeof(List<Order>));
+
+            using (FileStream fs = new FileStream(path, FileMode.Open))
+            {
+                List<Order>list = (List<Order>)xmlSerializer.Deserialize(fs);
+                Console.WriteLine("\nDeserialized from orders.xml");
+
+                list.ForEach( o => Console.WriteLine(o));
+                return list;
+            }
         }
     } 
 }

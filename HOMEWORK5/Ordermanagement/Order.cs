@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Ordermanagement
 {
- public   class Order
+    [Serializable]
+    public   class Order
     {
         public OrderDetails orderDetail;
 
@@ -47,6 +48,7 @@ namespace Ordermanagement
             this.Customer_name = customer_name;
             this.Total_price = total_price;
         }
+        
         public override string ToString()
         {
             return "[Order_ID]:" + Order_ID + "  [Goods_name]:" + Goods_name + "  [Customer_name]:" + Customer_name + "  [Total_price]:¥" + total_price+"\n";
@@ -60,5 +62,6 @@ namespace Ordermanagement
         {
             return Order_ID;
         }
+        public Order() { }
     }
 }

@@ -7,9 +7,10 @@ using System.Threading.Tasks;
 namespace Ordermanagement
 {
     class Program
-    {static void Main(string[] args)
+    {  static void Main(string[] args)
         {
-            List<Order> list = new List<Order>();
+           // public List<Order>list {get; set;}
+          List<Order> list = new List<Order>();
             OrderService orderService = new OrderService();
            
             bool falg = true;
@@ -17,7 +18,7 @@ namespace Ordermanagement
             while (falg)
             {
                 Console.WriteLine("------------------------------------------------------------------------------------------------");
-                Console.WriteLine("[0:Exist 1:AddOrder 2:DeleteOrder 3:ChangeOrder 4:Searchby_OrderID \n 5:Searchby_Customername 6:Searchby_date 7.Searchby_Goodsname 8.Sortlist]");
+                Console.WriteLine("[0:Exist 1:AddOrder 2:DeleteOrder 3:ChangeOrder 4:Searchby_OrderID \n 5:Searchby_Customername 6:Searchby_date 7.Searchby_Goodsname 8.Sortlist 9.Export 10.Import]");
                 string value = Console.ReadLine();
                 Order order = new Order(1, "null", "null", 0);
                 order.orderDetail = new OrderDetails(0, 0, "null");
@@ -59,6 +60,12 @@ namespace Ordermanagement
                         break;
                     case 8:
                         orderService.Sort_list(list);
+                        break;
+                   case 9:
+                        orderService.Export(list, "orders.xml");
+                        break;
+                    case 10:
+                        orderService.Import("orders.xml");
                         break;
                     default:
                         Console.WriteLine("input error");

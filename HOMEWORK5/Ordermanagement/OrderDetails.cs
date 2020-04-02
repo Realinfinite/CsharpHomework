@@ -6,9 +6,10 @@ using System.Threading.Tasks;
 
 namespace Ordermanagement
 {
+    [Serializable]
     public class OrderDetails
     {
-      
+
         private double unit_price;
         public double Unit_price
         {
@@ -43,9 +44,9 @@ namespace Ordermanagement
         }   //商品数量
 
         public string date { get; set; }    //出货日期
-        public OrderDetails( double unit_price, int goods_amount, string date)
+        public OrderDetails(double unit_price, int goods_amount, string date)
         {
-           
+
             this.Unit_price = unit_price;
             this.Goods_amount = goods_amount;
             this.date = date;
@@ -54,6 +55,7 @@ namespace Ordermanagement
         {
             return "[Unit_price]:¥" + Unit_price + "  [Goods_amount]:" + Goods_amount + "  [date]:" + date;
         }
+        public OrderDetails(){ }
+}
 
-    }
 }

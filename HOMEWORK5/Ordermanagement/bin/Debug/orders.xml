@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfOrder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Order>
+    <orderDetail>
+      <goods_amount>66</goods_amount>
+      <Unit_price>66</Unit_price>
+      <Goods_amount>66</Goods_amount>
+      <date>66</date>
+    </orderDetail>
+    <Order_ID>2</Order_ID>
+    <Customer_name>rr</Customer_name>
+    <Goods_name>rr</Goods_name>
+    <Total_price>66</Total_price>
+  </Order>
+</ArrayOfOrder>

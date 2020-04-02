@@ -4,3 +4,17 @@ C:\LWQ\VS2019\Ordermanagement\bin\Debug\Ordermanagement.pdb
 C:\LWQ\VS2019\Ordermanagement\obj\Debug\Ordermanagement.csprojAssemblyReference.cache
 C:\LWQ\VS2019\Ordermanagement\obj\Debug\Ordermanagement.exe
 C:\LWQ\VS2019\Ordermanagement\obj\Debug\Ordermanagement.pdb
+\\Mac\Home\CsharpHomework\HOMEWORK5\Ordermanagement\bin\Debug\Ordermanagement.exe.config
+\\Mac\Home\CsharpHomework\HOMEWORK5\Ordermanagement\bin\Debug\Ordermanagement.exe
+\\Mac\Home\CsharpHomework\HOMEWORK5\Ordermanagement\bin\Debug\Ordermanagement.pdb
+\\Mac\Home\CsharpHomework\HOMEWORK5\Ordermanagement\obj\Debug\Ordermanagement.csprojAssemblyReference.cache
+\\Mac\Home\CsharpHomework\HOMEWORK5\Ordermanagement\obj\Debug\Ordermanagement.csproj.CoreCompileInputs.cache
+\\Mac\Home\CsharpHomework\HOMEWORK5\Ordermanagement\obj\Debug\Ordermanagement.exe
+\\Mac\Home\CsharpHomework\HOMEWORK5\Ordermanagement\obj\Debug\Ordermanagement.pdb
+Z:\CsharpHomework\HOMEWORK5\Ordermanagement\bin\Debug\Ordermanagement.exe.config
+Z:\CsharpHomework\HOMEWORK5\Ordermanagement\bin\Debug\Ordermanagement.exe
+Z:\CsharpHomework\HOMEWORK5\Ordermanagement\bin\Debug\Ordermanagement.pdb
+Z:\CsharpHomework\HOMEWORK5\Ordermanagement\obj\Debug\Ordermanagement.csprojAssemblyReference.cache
+Z:\CsharpHomework\HOMEWORK5\Ordermanagement\obj\Debug\Ordermanagement.csproj.CoreCompileInputs.cache
+Z:\CsharpHomework\HOMEWORK5\Ordermanagement\obj\Debug\Ordermanagement.exe
+Z:\CsharpHomework\HOMEWORK5\Ordermanagement\obj\Debug\Ordermanagement.pdb
