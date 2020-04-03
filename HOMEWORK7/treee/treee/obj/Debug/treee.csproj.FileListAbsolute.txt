@@ -1,0 +1,10 @@
+\\Mac\Home\Desktop\VS2019\treee\treee\bin\Debug\treee.exe.config
+\\Mac\Home\Desktop\VS2019\treee\treee\bin\Debug\treee.exe
+\\Mac\Home\Desktop\VS2019\treee\treee\bin\Debug\treee.pdb
+\\Mac\Home\Desktop\VS2019\treee\treee\obj\Debug\treee.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\VS2019\treee\treee\obj\Debug\treee.Form1.resources
+\\Mac\Home\Desktop\VS2019\treee\treee\obj\Debug\treee.Properties.Resources.resources
+\\Mac\Home\Desktop\VS2019\treee\treee\obj\Debug\treee.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\VS2019\treee\treee\obj\Debug\treee.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\VS2019\treee\treee\obj\Debug\treee.exe
+\\Mac\Home\Desktop\VS2019\treee\treee\obj\Debug\treee.pdb
